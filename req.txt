@@ -1,0 +1,7 @@
+1. HTML, CSS -> Login, Flash("User doesn't exist")
+2. Flask -> Bcrypt, Login, Databases (SQLite), SQLAlchemy
+
+
+login()
+create_database()
+
